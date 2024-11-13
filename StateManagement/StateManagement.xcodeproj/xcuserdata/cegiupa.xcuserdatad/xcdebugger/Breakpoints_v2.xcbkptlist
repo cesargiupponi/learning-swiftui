@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3502D22D-BE7C-4051-97C3-6E610EC7C881"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13D2627E-B4D0-4C91-BA89-F202631F931A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StateManagement/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "TodoItemsListView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "13D2627E-B4D0-4C91-BA89-F202631F931A - 128b58e0df2206bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of StateManagement.ContentView.todoItems : Swift.Array&lt;StateManagement.TodoItem&gt;"
+                  moduleName = "StateManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cegiupa/Desktop/StateManagement/StateManagement/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "13D2627E-B4D0-4C91-BA89-F202631F931A - 199f30e159fd8721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StateManagement.ContentView.todoItems.getter : Swift.Array&lt;StateManagement.TodoItem&gt;"
+                  moduleName = "StateManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cegiupa/Desktop/StateManagement/StateManagement/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "13D2627E-B4D0-4C91-BA89-F202631F931A - 654db1cdb6d3a0e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StateManagement.ContentView.todoItems.setter : Swift.Array&lt;StateManagement.TodoItem&gt;"
+                  moduleName = "StateManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cegiupa/Desktop/StateManagement/StateManagement/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "13D2627E-B4D0-4C91-BA89-F202631F931A - 448d767326cd0dd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StateManagement.ContentView.todoItems.modify : Swift.Array&lt;StateManagement.TodoItem&gt;"
+                  moduleName = "StateManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cegiupa/Desktop/StateManagement/StateManagement/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "13D2627E-B4D0-4C91-BA89-F202631F931A - 2b9d4c1918f6f84a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StateManagement.ContentView.todoItems.modify : Swift.Array&lt;StateManagement.TodoItem&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "StateManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cegiupa/Desktop/StateManagement/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "13D2627E-B4D0-4C91-BA89-F202631F931A - 24627f9ba266eaed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StateManagement.ContentView.$todoItems.getter : SwiftUI.Binding&lt;Swift.Array&lt;StateManagement.TodoItem&gt;&gt;"
+                  moduleName = "StateManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cegiupa/Desktop/StateManagement/StateManagement/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "13D2627E-B4D0-4C91-BA89-F202631F931A - 7b12b9422720bc86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of StateManagement.ContentView.init(todoItems: Swift.Array&lt;StateManagement.TodoItem&gt;) -&gt; StateManagement.ContentView"
+                  moduleName = "StateManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cegiupa/Desktop/StateManagement/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "508091DE-8F56-45C3-99FA-3930DB7C64D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StateManagement/Array+Load.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fromJSON(named:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E82DD86D-87E0-4F59-A796-15E9B59FE175"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StateManagement/Array+Load.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fromJSON(named:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A078171C-58AA-4AF7-B4E5-955E08BA87FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StateManagement/Array+Load.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fromJSON(named:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
